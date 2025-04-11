@@ -32,7 +32,7 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 - Set up **input stimulus** and analyze the **output waveform**.
 
 ## Circuit Diagram
-![Screenshot 2025-03-28 193352](https://github.com/user-attachments/assets/08a3dce3-1de0-4f1e-b050-7c3569490edd)
+![image](https://github.com/user-attachments/assets/7c0f35e9-e9ba-4c2d-aa24-d9fa41e658c4)
 
 
 ## Truth Table for 1-Bit Full Adder
@@ -41,7 +41,7 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 
 ## Schematic Diagram
 ### 1. Schematic of 1-Bit Full Adder:
-![Screenshot 2025-03-29 113851](https://github.com/user-attachments/assets/42ed6ccd-5e17-40f6-99d2-ab885b692388)
+![image](https://github.com/user-attachments/assets/8f266f94-864f-464b-92f8-56b30906c023)
 
 ![image](https://github.com/user-attachments/assets/1a962018-9d6b-4246-ab5f-424602551e87)
 
@@ -49,9 +49,11 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 
 ## Output
 ### Transient Analysis Output:
-![image](https://github.com/user-attachments/assets/e0108848-fbf5-446a-8dcc-00cdddef2cb9)
+![image](https://github.com/user-attachments/assets/c5265aeb-040f-422e-80e9-f351d0428e67)
+![image](https://github.com/user-attachments/assets/c6550059-5e8a-4c80-8c1e-787d17deac7b)
 
-![Screenshot 2025-03-29 113729](https://github.com/user-attachments/assets/92688484-9563-41be-9af7-e92e8d00fce7)
+
+![image](https://github.com/user-attachments/assets/fe49853b-86aa-4b32-b2ea-b79bfd5ad7dd)
 
 
 
